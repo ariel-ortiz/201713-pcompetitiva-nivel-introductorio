@@ -20,4 +20,6 @@ Para más detalles ver: http://edupython.blogspot.mx/2017/04/reconciliando-pytho
 == Lista de problemas
 
 - 21 de agosto, 2017.
-    * http://coj.uci.cu/24h/problem.xhtml?pid=1160[Problema 1160 -- Number Steps]
+    * http://coj.uci.cu/24h/problem.xhtml?pid=1160[COJ: Problema 1160 -- Number Steps]
+- 28 de agosto, 2017.
+    * http://www.spoj.com/problems/TEST/[SPOJ: TEST -- Life, the Universe, and Everything]
