@@ -1,8 +1,23 @@
 = Programación competitiva (nivel introductorio)
 
-Este repositorio contiene los archivos correspondientes al nivel introductorio del grupo de programación competitiva del Tecnológico de Monterrey, Campus Estado de México, del semestre agosto-diciembre del 2017.
+Este repositorio contiene los archivos correspondientes al nivel introductorio del grupo de programación competitiva del Tecnológico de Monterrey, Campus Estado de México, correspondientes al semestre agosto-diciembre del 2017.
 
-'''
+== Escribiendo código compatible con Python 2.7 y 3.x
+
+Comenzar el programa con las siguientes líneas:
+[source, python]
+----
+# coding: utf-8
+
+from __future__ import print_function
+from __future__ import division
+----
+
+Con estas líneas la función `print` y el operador de división real (`/`) funcionan como en Python 3.x aunque se esté utilizando Python 2.7.
+
+Para más detalles ver: http://edupython.blogspot.mx/2017/04/reconciliando-python-2-y-3.html[Reconciliando Python 2 y 3].
+
+== Lista de problemas
 
 - 21 de agosto, 2017.
     * http://coj.uci.cu/24h/problem.xhtml?pid=1160[Problema 1160 -- Number Steps]
