@@ -1,6 +1,6 @@
 = Programación competitiva (nivel introductorio)
 
-Este repositorio contiene los archivos correspondientes al nivel introductorio del grupo de programación competitiva del Tecnológico de Monterrey, Campus Estado de México, correspondientes al semestre agosto-diciembre del 2017.
+Este repositorio contiene los archivos correspondientes al nivel introductorio del grupo de programación competitiva del Tecnológico de Monterrey, Campus Estado de México, para el semestre agosto-diciembre del 2017.
 
 == Escribiendo código compatible con Python 2.7 y 3.x
 
