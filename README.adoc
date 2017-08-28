@@ -1,0 +1,8 @@
+= Programación competitiva (nivel introductorio)
+
+Este repositorio contiene los archivos correspondientes al nivel introductorio del grupo de programación competitiva del Tecnológico de Monterrey, Campus Estado de México, del semestre agosto-diciembre del 2017.
+
+'''
+
+- 21 de agosto, 2017.
+    * http://coj.uci.cu/24h/problem.xhtml?pid=1160[Problema 1160 -- Number Steps]
