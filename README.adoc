@@ -23,3 +23,5 @@ Para más detalles ver: http://edupython.blogspot.mx/2017/04/reconciliando-pytho
     * http://coj.uci.cu/24h/problem.xhtml?pid=1160[COJ: Problema 1160 -- Number Steps]
 - 28 de agosto, 2017.
     * http://www.spoj.com/problems/TEST/[SPOJ: TEST -- Life, the Universe, and Everything]
+- 4 de septiembre, 2017.
+    * http://www.spoj.com/problems/AE00/[SPOJ: AE00 -- Rectangles]
