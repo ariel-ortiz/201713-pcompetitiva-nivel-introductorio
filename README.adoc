@@ -25,3 +25,5 @@ Para más detalles ver: http://edupython.blogspot.mx/2017/04/reconciliando-pytho
     * http://www.spoj.com/problems/TEST/[SPOJ: TEST -- Life, the Universe, and Everything]
 - 4 de septiembre, 2017.
     * http://www.spoj.com/problems/AE00/[SPOJ: AE00 -- Rectangles]
+- 11 de septiembre, 2017.
+    * http://www.spoj.com/problems/CRDS/[SPOJ: CRDS -- Cards]
