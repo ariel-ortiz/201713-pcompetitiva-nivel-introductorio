@@ -29,3 +29,5 @@ Para más detalles ver: http://edupython.blogspot.mx/2017/04/reconciliando-pytho
     * http://www.spoj.com/problems/CRDS/[SPOJ: CRDS -- Cards]
 - 9 de octubre, 2017.
     * http://www.spoj.com/problems/STAMPS/[SPOJ: STAMPS -- Stamps]
+- 16 de octubre, 2017.
+    * http://www.spoj.com/problems/HANGOVER/[SPOJ: HANGOVER -- Hangover]
